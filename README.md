@@ -1,6 +1,6 @@
 # Object Oriented Programing
 
-![Adsız](D:\deneme.java_\src\Adsız.png)
+![Adsız](D:\deneme.java_\oop\Adsız.png)
 
 
 
