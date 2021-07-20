@@ -1,6 +1,8 @@
 # Object Oriented Programing
 
-![Adsız](D:\deneme.java_\oop\Adsız.png)
+![](https://github.com/yasemingurbuz/ObjectOrientedPrograming/blob/main/%C3%9Cniversite.png)
+
+
 
 
 
